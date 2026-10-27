@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Marketing",
+    "title": "Marketing Directions & Strategy",
+    "text": "Learn modern digital marketing strategies, SEO optimization, and social media campaigns to boost brand reach and engagement.",
+    "duration": "3 months",
+    "price": "$280",
+    "img": "images/directions/marketing-image.jpg"
+  },
+  {
+    "category": "Management",
+    "title": "Project & Business Management",
+    "text": "Master Agile and Scrum frameworks, manage team resources effectively, and deliver high-impact software products on schedule.",
+    "duration": "4 months",
+    "price": "$350",
+    "img": "images/directions/managment-image.jpg"
+  },
+  {
+    "category": "HR & Recruting",
+    "title": "HR Management & Talent Acquisition",
+    "text": "Build effective hiring pipelines, conduct modern tech interviews, and foster positive corporate culture within your organization.",
+    "duration": "2 months",
+    "price": "$220",
+    "img": "images/directions/hr-image.jpg"
+  },
+  {
+    "category": "Design",
+    "title": "UI/UX & Graphic Design Course",
+    "text": "Create intuitive web interfaces and mobile apps using Figma, conduct user research, and design memorable brand identities.",
+    "duration": "4 months",
+    "price": "$320",
+    "img": "images/directions/design-image.jpg"
+  },
+  {
+    "category": "Development",
+    "title": "Fullstack Web Development",
+    "text": "Build responsive websites using HTML5, CSS3, JavaScript, React, and backend API integration from ground zero.",
+    "duration": "6 months",
+    "price": "$450",
+    "img": "images/directions/develop-image.jpg"
+  }
+]
